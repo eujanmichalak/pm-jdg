@@ -26,7 +26,7 @@ export default function Cta() {
             {t.cta.btnWrite}
           </Link>
           <a
-            href="tel:+48123456789"
+            href="tel:+48797109552"
             className="w-full sm:w-auto bg-transparent hover:bg-gray-100 text-gray-950 font-bold uppercase tracking-wider text-center px-8 py-4 border-2 border-gray-950 transition-colors text-sm flex items-center justify-center space-x-2"
           >
             <svg className="h-4 w-4 text-gray-950" fill="none" viewBox="0 0 24 24" stroke="currentColor">
